@@ -1,4 +1,4 @@
-Open a Thai Restaurant in Newyork
+Open a Thai Restaurant in New York
 ==============================================
 for IBM Data Science Courses Capstone Project - The Battle of Neighborhoods
 
