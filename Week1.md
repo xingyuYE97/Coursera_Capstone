@@ -12,3 +12,11 @@ In this project, we are going to find a best place in New York for openning a Th
 Data Source
 ------------
 Using FourSquare API to get the information in New York, such as venue ratings, price and others. Then running K-mean clusters to find out the best place for Thai Resturant.
+
+Methodology
+-----------
+My goal is to find a neighboorhood best for opening the Thai restaurant. I use FourSqauare API to get the Thai resturant information in NYC and use some statistic method to choose the best neighboorhood.
+
+Result
+------
+Woodside is the best neighboorhood in NYC because it has five thai restaurants.
